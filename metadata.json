@@ -1,0 +1,6 @@
+{
+  "name": "AuraPost - Emotional Experience to Social Story",
+  "description": "Transform your raw memories and feelings into beautifully crafted posts for Instagram, LinkedIn, X, and Facebook with custom AI visuals.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
